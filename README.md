@@ -1,6 +1,7 @@
 # SQL-Project-Music-Store-Analysis
 
 Welcome to the SQL Project: Music Store Analysis! This project aims to provide beginners with hands-on experience in analyzing an online music store database using SQL. By examining the dataset and answering simple questions, you will gain valuable insights into the store's operations and business growth.
+<img width="594" alt="schema_diagram" src="https://github.com/hemantchoudhry/SQL-Project-Music-Store-Analysis/assets/165124115/97173ae6-7af7-4150-88cc-7edf28b6636d">
 
 # Project Overview
 The objective of this project is to analyze the music playlist database of an online music store using SQL queries. By exploring the dataset and extracting relevant information, you will be able to answer various questions related to sales performance, customer behavior, and product popularity. This project is suitable for beginners who want to learn SQL fundamentals while gaining practical experience in data analysis.
